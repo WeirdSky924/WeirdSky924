@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f766e,100:164e63&amp;height=190&amp;section=header&amp;text=Kaj&amp;fontSize=56&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=AI%20Developer%20Tools%20%7C%20Developer%20Workflows&amp;descAlignY=58&amp;descSize=16" alt="Kaj profile banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f766e,100:164e63&amp;height=190&amp;section=header&amp;text=Kaj&amp;fontSize=56&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Developer%20Tools%20%7C%20Collaborative%20Learning%20%7C%20Multi-Agent%20Apps&amp;descAlignY=58&amp;descSize=16" alt="Kaj profile banner" width="100%" />
 </p>
 
 <p align="center">
-  Building practical tools for AI-assisted development.<br />
-  关注 AI 编程工具、Agent 工作流与开发者效率。
+  Building developer tools, collaborative learning spaces, and multi-agent apps.<br />
+  关注开发者工具、协作学习与多 Agent 应用。
 </p>
 
 <p align="center">
@@ -20,23 +20,24 @@
 
 ## Focus
 
-- AI coding agents: durable context and clearer change boundaries
-- Codex workflows: remote sessions and CLI reliability
+- AI coding agents and cross-session project memory
+- Collaborative learning and interview preparation
+- Multi-agent creative applications
 - Practical tools built with Python and TypeScript
 
 ## Selected Projects
 
 | Project | What it does |
 | --- | --- |
+| [KKblog](https://github.com/WeirdSky924/KKblog) | A shared learning blog focused on interview preparation for new graduates. |
 | [agent-handoff-skill](https://github.com/WeirdSky924/agent-handoff-skill) | Keeps goals, decisions, validation, and next steps available across Codex and Claude Code sessions. |
-| [project-change-router-skill](https://github.com/WeirdSky924/project-change-router-skill) | Helps AI coding agents find the right capability and respect repository boundaries. |
-| [codex-remote-bridge](https://github.com/WeirdSky924/codex-remote-bridge) | Connects to Codex sessions remotely. |
-| [codex-watch](https://github.com/WeirdSky924/codex-watch) | Monitors Codex CLI tasks and restarts them after failures. |
+| [GodView](https://github.com/WeirdSky924/GodView) | A multi-agent tool for generating web novels. |
 
 ## More Projects
 
-- [KKblog](https://github.com/WeirdSky924/KKblog) · A shared learning blog for interview preparation
-- [GodView](https://github.com/WeirdSky924/GodView) · A multi-agent web novel writing tool
+- [project-change-router-skill](https://github.com/WeirdSky924/project-change-router-skill) · Helps AI coding agents respect repository capability boundaries
+- [codex-remote-bridge](https://github.com/WeirdSky924/codex-remote-bridge) · Connects to Codex sessions remotely
+- [codex-watch](https://github.com/WeirdSky924/codex-watch) · Monitors Codex CLI tasks and restarts them after failures
 - [sub2api](https://github.com/WeirdSky924/sub2api) · A unified API relay for AI providers
 - [model_zoo](https://github.com/WeirdSky924/model_zoo) · Implementations of mainstream object detection models
 
